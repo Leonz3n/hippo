@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.leonz3n.hippo.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.leonz3n.hippo.MyBundle
 
 class MyApplicationService {
 
